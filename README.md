@@ -2,10 +2,10 @@
 
 **Creditcall gateway for the Omnipay PHP payment processing library**
 
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/meebio/omnipay-creditcall.svg?style=flat-square)](https://packagist.org/packages/meebio/omnipay-creditcall)
+[![Latest Version on Packagist](https://img.shields.io/packagist/v/stevewinni/omnipay-creditcall.svg?style=flat-square)](https://packagist.org/packages/stevewinni/omnipay-creditcall)
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE.md)
-[![Build Status](https://img.shields.io/travis/meebio/omnipay-creditcall/master.svg?style=flat-square)](https://travis-ci.org/meebio/omnipay-creditcall)
-[![Total Downloads](https://img.shields.io/packagist/dt/meebio/omnipay-creditcall.svg?style=flat-square)](https://packagist.org/packages/meebio/omnipay-creditcall)
+[![Build Status](https://img.shields.io/travis/stevewinni/omnipay-creditcall/master.svg?style=flat-square)](https://travis-ci.org/stevewinni/omnipay-creditcall)
+[![Total Downloads](https://img.shields.io/packagist/dt/stevewinni/omnipay-creditcall.svg?style=flat-square)](https://packagist.org/packages/stevewinni/omnipay-creditcall)
 
 
 [Omnipay](https://github.com/thephpleague/omnipay) is a framework agnostic, multi-gateway payment
@@ -16,7 +16,7 @@ processing library for PHP 5.3+. This package implements Creditcall support for 
 Via Composer
 
 ``` bash
-$ composer require meebio/omnipay-creditcall
+$ composer require stevewinni/omnipay-creditcall
 ```
 
 ## Usage
