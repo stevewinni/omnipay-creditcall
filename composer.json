@@ -1,6 +1,6 @@
 {
     "name": "stevewinni/omnipay-creditcall",
-    "description": "Creditcall driver for the Omnipay PHP payment processing library",
+    "description": "Creditcall driver for the Omnipay PHP payment processing library. Fork of meebi/omnipay-creditcall",
     "keywords": [
         "gateway",
         "merchant",
